@@ -16,8 +16,8 @@ This project focuses on analyzing and predicting customer churn using a real-wor
 ## Dataset Information
 
 - **Dataset Name:** Telco Customer Churn
-- **Source:** Sample Telco dataset (commonly used for classification tasks)
-- **File Format:** CSV
+- **Source:** [Kaggle – Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
+- **File Format:** CSV  
 - **Total Records:** ~7,043
 - **Features:** 21 columns including categorical, numerical, and the target column `Churn`
 
